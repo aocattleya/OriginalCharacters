@@ -2,7 +2,7 @@
 
 青いカトレアを擬人化させたオリジナルキャラクター『aocattleya』のレイヤーファイルです。  
 
-１、ペイントツール『FireAlpaca』をインストール（.mdp対応なら何でもOK）  
+１、ペイントツール『[FireAlpaca](https://firealpaca.com/ja/)』をインストール（.mdp対応ならOK）  
 ２、右上の緑ボタン「Clone or download」→「Download ZIP」でDL  
 ３、ファイルをダブルクリックで起動  
 
